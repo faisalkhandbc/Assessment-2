@@ -102,7 +102,7 @@
 .second{
     margin-top: 140px;
     display: flex;
-    height: 70%;
+    height: auto;
 }
 
 .cont{
